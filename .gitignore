@@ -1,0 +1,4 @@
+truffle-config.js
+test
+migrations
+contracts/Migrations.sol
